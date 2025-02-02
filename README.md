@@ -1,0 +1,2 @@
+# esphome-smart-sense-speaker
+
